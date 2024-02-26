@@ -1,16 +1,15 @@
 # flutter_dog_app
 
-A new Flutter project.
+A flutter dog app is a mobile application built using Flutter that allows users to view random dog images and save their favorite ones.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+-Random Dog Images: Fetches random dog images from an external API.
+-Favorites: Allows users to save their favorite dog images.
+-Navigation: Provides a navigation rail for easy switching between home and favorites screens
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+Install dependencies: flutter pub get
